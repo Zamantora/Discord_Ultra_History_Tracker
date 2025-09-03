@@ -4,9 +4,15 @@
 
 DUHT lets you log and access Voice calls in a direct message, screenshares, It logs everything inside of a group chat including deleted messages and videos, which the normal DHT can't do
 
+## how to download
+Simply navagate to the Release bar, that's pretty much it
+<img width="1898" height="941" alt="Screenshot 2025-09-03 051935" src="https://github.com/user-attachments/assets/4dd5f119-165c-4521-9972-44e2f97ef709" />
+<img width="1268" height="590" alt="Screenshot 2025-09-03 052011" src="https://github.com/user-attachments/assets/a7cb514f-580a-442b-93cb-b833170bf086" />
+
 ## How to Use
 - Simply run "DUHT_setup.msi" and it'll run you through the building instructions very relatively quickly with no issue nor any complexity to it
-![image](https://github.com/user-attachments/assets/02aef180-094a-473c-acba-9542d20f559a)
+
+
 
 
 ## Features
